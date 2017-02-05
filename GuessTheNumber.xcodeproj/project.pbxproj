@@ -12,6 +12,7 @@
 		4850F1E41E4102DA007DF8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4850F1E21E4102DA007DF8BF /* Main.storyboard */; };
 		4850F1E61E4102DA007DF8BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4850F1E51E4102DA007DF8BF /* Assets.xcassets */; };
 		4850F1E91E4102DA007DF8BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4850F1E71E4102DA007DF8BF /* LaunchScreen.storyboard */; };
+		4850F1F11E41079B007DF8BF /* DSC_1911.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4850F1F01E41079B007DF8BF /* DSC_1911.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4850F1E51E4102DA007DF8BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4850F1E81E4102DA007DF8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4850F1EA1E4102DA007DF8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4850F1F01E41079B007DF8BF /* DSC_1911.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DSC_1911.jpg; path = ../../../../../Downloads/DSC_1911.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4850F1DE1E4102DA007DF8BF /* AppDelegate.swift */,
 				4850F1E01E4102DA007DF8BF /* ViewController.swift */,
 				4850F1E21E4102DA007DF8BF /* Main.storyboard */,
+				4850F1F01E41079B007DF8BF /* DSC_1911.jpg */,
 				4850F1E51E4102DA007DF8BF /* Assets.xcassets */,
 				4850F1E71E4102DA007DF8BF /* LaunchScreen.storyboard */,
 				4850F1EA1E4102DA007DF8BF /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4850F1F11E41079B007DF8BF /* DSC_1911.jpg in Resources */,
 				4850F1E91E4102DA007DF8BF /* LaunchScreen.storyboard in Resources */,
 				4850F1E61E4102DA007DF8BF /* Assets.xcassets in Resources */,
 				4850F1E41E4102DA007DF8BF /* Main.storyboard in Resources */,
